@@ -12,8 +12,8 @@ Redis ist ein leistungsfähiger Open-Source-In-Memory-Datenstrukturspeicher. Die
 
 |   Index | Name                                                                                             | Schwierigkeit   | Repo                                                                    | Übung                                                                          |
 |---------|--------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|       1 | [Redis für Anfänger](https://labex.io/de/courses/redis-for-beginners)                            | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Labor Starten](https://labex.io/de/courses/redis-for-beginners)            |
-|       2 | [Redis: Fortgeschrittene Kenntnisse](https://labex.io/de/courses/redis-intermediate-to-advanced) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Labor Starten](https://labex.io/de/courses/redis-intermediate-to-advanced) |
+|       1 | [Redis für Anfänger](https://labex.io/de/courses/redis-for-beginners)                            | Anfänger        | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Labor Starten](https://labex.io/de/courses/redis-for-beginners)            |
+|       2 | [Redis: Fortgeschrittene Kenntnisse](https://labex.io/de/courses/redis-intermediate-to-advanced) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Labor Starten](https://labex.io/de/courses/redis-intermediate-to-advanced) |
 
 ## Mehr
 
