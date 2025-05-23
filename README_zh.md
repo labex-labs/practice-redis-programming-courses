@@ -12,8 +12,8 @@ Redis 是一个功能强大的开源内存数据结构存储系统。此技能�
 
 |   序号 | 名称                                                                           | 难度   | Repo                                                                    | 练习                                                                      |
 |--------|--------------------------------------------------------------------------------|--------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|      1 | [Redis 初学者入门](https://labex.io/zh/courses/redis-for-beginners)            | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 开始实验](https://labex.io/zh/courses/redis-for-beginners)            |
-|      2 | [Redis 中级到高级](https://labex.io/zh/courses/redis-intermediate-to-advanced) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 开始实验](https://labex.io/zh/courses/redis-intermediate-to-advanced) |
+|      1 | [Redis 初学者入门](https://labex.io/zh/courses/redis-for-beginners)            | 初级   | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 开始实验](https://labex.io/zh/courses/redis-for-beginners)            |
+|      2 | [Redis 中级到高级](https://labex.io/zh/courses/redis-intermediate-to-advanced) | 初级   | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 开始实验](https://labex.io/zh/courses/redis-intermediate-to-advanced) |
 
 ## 更多
 
