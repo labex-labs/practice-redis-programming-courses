@@ -12,8 +12,8 @@ Redis - это мощное хранилище структур данных в 
 
 |   Индекс | Название                                                                                        | Сложность   | Repo                                                                    | Практика                                                                            |
 |----------|-------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|        1 | [Redis для начинающих](https://labex.io/ru/courses/redis-for-beginners)                         | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Начать Лабораторию](https://labex.io/ru/courses/redis-for-beginners)            |
-|        2 | [Redis: от среднего к продвинутому](https://labex.io/ru/courses/redis-intermediate-to-advanced) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/redis-intermediate-to-advanced) |
+|        1 | [Redis для начинающих](https://labex.io/ru/courses/redis-for-beginners)                         | Начинающий  | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Начать Лабораторию](https://labex.io/ru/courses/redis-for-beginners)            |
+|        2 | [Redis: от среднего к продвинутому](https://labex.io/ru/courses/redis-intermediate-to-advanced) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/redis-intermediate-to-advanced) |
 
 ## Больше
 
