@@ -12,8 +12,8 @@ Redis は強力なオープンソースのインメモリデータ構造スト�
 
 |   インデックス | 名前                                                                             | 難易度   | Repo                                                                    | 練習                                                                        |
 |----------------|----------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|              1 | [初心者向け Redis](https://labex.io/ja/courses/redis-for-beginners)              | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 ラボを開始](https://labex.io/ja/courses/redis-for-beginners)            |
-|              2 | [Redis 中級から上級](https://labex.io/ja/courses/redis-intermediate-to-advanced) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 ラボを開始](https://labex.io/ja/courses/redis-intermediate-to-advanced) |
+|              1 | [初心者向け Redis](https://labex.io/ja/courses/redis-for-beginners)              | 初級     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 ラボを開始](https://labex.io/ja/courses/redis-for-beginners)            |
+|              2 | [Redis 中級から上級](https://labex.io/ja/courses/redis-intermediate-to-advanced) | 初級     | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 ラボを開始](https://labex.io/ja/courses/redis-intermediate-to-advanced) |
 
 ## その他
 
