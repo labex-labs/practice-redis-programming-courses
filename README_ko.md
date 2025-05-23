@@ -12,8 +12,8 @@ Redis 는 강력한 오픈 소스 인 메모리 데이터 구조 저장소입니
 
 |   인덱스 | 이름                                                                                  | 난이도   | Repo                                                                    | 연습                                                                       |
 |----------|---------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|        1 | [Redis 초보자를 위한 안내](https://labex.io/ko/courses/redis-for-beginners)           | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 실습 시작](https://labex.io/ko/courses/redis-for-beginners)            |
-|        2 | [Redis 중급에서 고급으로](https://labex.io/ko/courses/redis-intermediate-to-advanced) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 실습 시작](https://labex.io/ko/courses/redis-intermediate-to-advanced) |
+|        1 | [Redis 초보자를 위한 안내](https://labex.io/ko/courses/redis-for-beginners)           | 초급     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 실습 시작](https://labex.io/ko/courses/redis-for-beginners)            |
+|        2 | [Redis 중급에서 고급으로](https://labex.io/ko/courses/redis-intermediate-to-advanced) | 초급     | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 실습 시작](https://labex.io/ko/courses/redis-intermediate-to-advanced) |
 
 ## 더 보기
 
