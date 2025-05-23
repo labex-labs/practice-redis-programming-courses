@@ -12,8 +12,8 @@ Redis es un potente almacén de estructuras de datos en memoria de código abier
 
 |   Índice | Nombre                                                                                    | Dificultad   | Repo                                                                    | Práctica                                                                             |
 |----------|-------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|        1 | [Redis para Principiantes](https://labex.io/es/courses/redis-for-beginners)               | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-for-beginners)            |
-|        2 | [Redis Intermedio a Avanzado](https://labex.io/es/courses/redis-intermediate-to-advanced) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-intermediate-to-advanced) |
+|        1 | [Redis para Principiantes](https://labex.io/es/courses/redis-for-beginners)               | Principiante | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-for-beginners)            |
+|        2 | [Redis Intermedio a Avanzado](https://labex.io/es/courses/redis-intermediate-to-advanced) | Principiante | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/redis-intermediate-to-advanced) |
 
 ## Más
 
