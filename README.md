@@ -12,8 +12,8 @@ Redis is a powerful, open-source in-memory data structure store. This Skill Tree
 
 |   Index | Name                                                                                      | Difficulty   | Repo                                                                    | Practice                                                                |
 |---------|-------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-|       1 | [Redis for Beginners](https://labex.io/courses/redis-for-beginners)                       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Start Lab](https://labex.io/courses/redis-for-beginners)            |
-|       2 | [Redis Intermediate to Advanced](https://labex.io/courses/redis-intermediate-to-advanced) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Start Lab](https://labex.io/courses/redis-intermediate-to-advanced) |
+|       1 | [Redis for Beginners](https://labex.io/courses/redis-for-beginners)                       | Beginner     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Start Lab](https://labex.io/courses/redis-for-beginners)            |
+|       2 | [Redis Intermediate to Advanced](https://labex.io/courses/redis-intermediate-to-advanced) | Beginner     | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Start Lab](https://labex.io/courses/redis-intermediate-to-advanced) |
 
 ## More
 
