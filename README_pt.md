@@ -12,8 +12,8 @@ Redis é um armazenamento de estruturas de dados em memória de código aberto e
 
 |   Índice | Nome                                                                                      | Dificuldade   | Repo                                                                    | Prática                                                                      |
 |----------|-------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|        1 | [Redis para Iniciantes](https://labex.io/pt/courses/redis-for-beginners)                  | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Iniciar Lab](https://labex.io/pt/courses/redis-for-beginners)            |
-|        2 | [Redis Intermédio a Avançado](https://labex.io/pt/courses/redis-intermediate-to-advanced) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Iniciar Lab](https://labex.io/pt/courses/redis-intermediate-to-advanced) |
+|        1 | [Redis para Iniciantes](https://labex.io/pt/courses/redis-for-beginners)                  | Iniciante     | [🔗 Repo](https://github.com/labex-labs/redis-for-beginners)            | [🚀 Iniciar Lab](https://labex.io/pt/courses/redis-for-beginners)            |
+|        2 | [Redis Intermédio a Avançado](https://labex.io/pt/courses/redis-intermediate-to-advanced) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/redis-intermediate-to-advanced) | [🚀 Iniciar Lab](https://labex.io/pt/courses/redis-intermediate-to-advanced) |
 
 ## Mais
 
