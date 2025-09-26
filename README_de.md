@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/4MMYfz8sH7hJ.png">
 </div>
 
-Redis ist ein leistungsfähiger Open-Source-In-Memory-Datenstrukturspeicher. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung von Redis. Er ist ideal für Anfänger im Bereich Daten-Caching und Echtzeit-Anwendungen und präsentiert eine strukturierte Roadmap, um Datenstrukturen, Caching-Strategien und Leistungsoptimierung zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einem interaktiven Redis-Spielplatz sammeln Sie praktische Erfahrungen im Daten-Caching und in der Echtzeit-Datenverarbeitung.
+Lernen Sie Redis mit diesem umfassenden Lernpfad, der für Anfänger konzipiert wurde. Diese Redis-Kurse bieten eine strukturierte Roadmap, um den quelloffenen In-Memory-Datenspeicher zu meistern. Fortschritte von grundlegenden Datenstrukturen bis hin zu fortgeschrittenen Caching-Strategien und Leistungsoptimierung. Sammeln Sie praktische, reale Erfahrungen in der Datenzwischenspeicherung und Echtzeit-Datenverarbeitung durch praktische, nicht-video-basierte Tutorials und interaktive Übungen in einem dedizierten Redis-Playground.
 
 |   Index | Name                                                                                             | Schwierigkeit   | Repo                                                                    | Übung                                                                          |
 |---------|--------------------------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
