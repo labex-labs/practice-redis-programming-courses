@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/4MMYfz8sH7hJ.png">
 </div>
 
-Redis é um armazenamento de estruturas de dados em memória de código aberto e poderoso. Esta Skill Tree oferece um caminho de aprendizado abrangente para dominar o Redis. É perfeito para iniciantes em cache de dados e aplicações em tempo real, apresentando um roteiro estruturado para entender estruturas de dados, estratégias de cache e otimização de desempenho. Através de cursos práticos, sem vídeos, e exercícios práticos em um playground Redis interativo, você obterá experiência do mundo real em cache de dados e processamento de dados em tempo real.
+Aprenda Redis com este caminho de aprendizagem abrangente, projetado para iniciantes. Estes cursos de Redis oferecem um roteiro estruturado para dominar o armazenamento de estrutura de dados em memória de código aberto. Progrida desde estruturas de dados fundamentais até estratégias avançadas de cache e otimização de desempenho. Ganhe experiência prática e real em cache de dados e processamento de dados em tempo real através de tutoriais práticos (não em vídeo) e exercícios interativos em um ambiente dedicado de Redis.
 
 |   Índice | Nome                                                                                      | Dificuldade   | Repo                                                                    | Prática                                                                      |
 |----------|-------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
